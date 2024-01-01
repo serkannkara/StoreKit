@@ -1,0 +1,111 @@
+{
+  "identifier" : "DF742483",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "6B2F20AB",
+      "localizations" : [
+        {
+          "description" : "19.99$ for In App Purchase",
+          "displayName" : "Monthly",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.codefabrika.monthly",
+      "referenceName" : "Monthly",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "9B066CA4",
+      "localizations" : [
+        {
+          "description" : "0.99$ for Inn App Purchase",
+          "displayName" : "One Day",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.codefabrika.oneday",
+      "referenceName" : "One Day",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "94DB89D4",
+      "localizations" : [
+        {
+          "description" : "4.99$ for Inn App Purchase",
+          "displayName" : "One Week",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.codefabrika.oneweek",
+      "referenceName" : "One Week",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
